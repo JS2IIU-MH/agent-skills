@@ -1,0 +1,91 @@
+{
+  "evals": [
+    {
+      "id": "simple-tech-trend",
+      "prompt": "生成AIの2025年のトレンドについてプレゼンテーション資料を作成してください。10スライド程度で、ビジネス向けにまとめてください。",
+      "expectations": [
+        "PowerPoint形式(.pptx)のファイルが作成されている",
+        "タイトルスライドが含まれている",
+        "目次スライドが含まれている",
+        "WEB調査を実施し、複数のソース(3個以上)から情報を収集している",
+        "調査プロセスが詳細に記録され、表示されている",
+        "生成AIに関する最新トレンド(2025年)の情報が含まれている",
+        "結論または提言のスライドが含まれている",
+        "参考文献・出典のスライドが含まれている",
+        "スライド数が8-12枚程度である",
+        "ビジネス向けのプロフェッショナルなデザインである"
+      ]
+    },
+    {
+      "id": "complex-social-issue",
+      "prompt": "Create a presentation about remote work trends and challenges in 2025. Include statistics, case studies, and recommendations. Aim for 15-20 slides.",
+      "expectations": [
+        "A .pptx file is created",
+        "The presentation contains a title slide",
+        "A table of contents slide is included",
+        "Web research is conducted with at least 5 sources",
+        "Research process is logged and displayed in detail",
+        "Current statistics about remote work in 2025 are included",
+        "At least one case study or example is presented",
+        "Recommendations or actionable insights are provided",
+        "A references slide listing sources is included",
+        "The presentation has 13-22 slides",
+        "The content is in English as requested",
+        "Visual elements like charts or graphs are used for data"
+      ]
+    },
+    {
+      "id": "business-analysis",
+      "prompt": "電気自動車(EV)市場の現状と今後の展望についてプレゼン資料を作ってください。市場規模、主要プレイヤー、技術動向、課題などを含めてください。",
+      "expectations": [
+        ".pptxファイルが作成されている",
+        "タイトルスライドがある",
+        "目次スライドがある",
+        "WEB調査を7個以上のソースから実施している",
+        "調査ログが詳細に記録されている",
+        "EV市場規模に関するデータや統計が含まれている",
+        "主要な自動車メーカーやEV企業が紹介されている",
+        "技術動向(バッテリー技術、充電インフラなど)が説明されている",
+        "市場の課題や障壁が議論されている",
+        "今後の展望や予測が含まれている",
+        "結論・提言スライドがある",
+        "参考文献スライドがあり、複数のソースが記載されている",
+        "グラフや図表などの視覚要素が使用されている"
+      ]
+    },
+    {
+      "id": "educational-topic",
+      "prompt": "プログラミング初心者向けに「Pythonの基礎」についてのプレゼンテーション資料を作成してください。教育目的で、わかりやすく、実例を含めてください。",
+      "expectations": [
+        ".pptxファイルが作成されている",
+        "タイトルスライドがある",
+        "目次スライドがある",
+        "WEB調査が実施されている(少なくとも3-5ソース)",
+        "Pythonの基本的な概念が説明されている",
+        "初心者向けにわかりやすい説明がされている",
+        "コード例や実例が含まれている",
+        "学習リソースや次のステップが提案されている",
+        "参考文献スライドがある",
+        "教育的で読みやすいデザインである"
+      ]
+    },
+    {
+      "id": "multilingual-request",
+      "prompt": "日本の観光業の回復と今後の戦略について、英語でプレゼンテーション資料を作成してください。国際的な聴衆向けです。",
+      "expectations": [
+        "A .pptx file is created",
+        "All content is in English",
+        "A title slide is included",
+        "A table of contents slide is included",
+        "Web research includes both Japanese and English sources",
+        "Information about Japan's tourism recovery is included",
+        "Post-pandemic tourism statistics are presented",
+        "Future strategies and initiatives are discussed",
+        "International perspective is considered",
+        "A conclusion or recommendations slide is included",
+        "A references slide with source URLs is included",
+        "Professional business design is used"
+      ]
+    }
+  ]
+}
